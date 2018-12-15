@@ -1,0 +1,2 @@
+# employee-absenteeism
+ Productivity of an organization depends upon the productivity of its employees. However, it gets affected if the employee’s absenteeism rate increases. This project aims at finding the prime causes of absenteeism in employees. It will help the organization reduce the number of absentees by taking appropriate measures. Also this project aims at determining the future trends of this issue if the same conditions persist.
